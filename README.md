@@ -6,6 +6,8 @@ Simple-TTS 是一个简单的将文本转换成语音的小工具，方便在小
 
 - 太简单，啥也不是......
 
+  ![https://github.com/likoosong/Simple-TTS](./assets/medo-page.png)
+
 
 ## 基本操作
 
