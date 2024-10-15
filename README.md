@@ -34,6 +34,9 @@ pip install edge-tts
 # 安装pyinstaller库
 pip install pyinstaller
 
+# 也可以通过 requestments.txt 批安装
+pip install -r requestments.txt
+
 # 打包成exe文件
 pyinstaller -F -i likoosong.ico main.py -w
 
